@@ -1,10 +1,10 @@
 
 public class MichelMoreira {
 	
-	int d;
-	int e;
+	int k;
+	int a;
 	int t;
-	int o;
-	int x;
+	int y;
+	int ah;
 
 }
